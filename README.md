@@ -23,7 +23,7 @@ For this project, I utilized Python requests, the OpenWeatherMap API, and JSON t
 <img src="presentation/processing_cities.PNG" width="600">
 
 ## Temperature (F) vs. Latitude
-[<img src="presentation/Fig1.png" width="600">](https://github.com/Gagan-hub/WeatherPy/blob/main/Images/Fig1.png)
+https://github.com/Gagan-hub/WeatherPy/blob/main/Images/Fig1.png
 
 ## Humidity (%) vs. Latitude
 <img src="presentation/Fig2.png" width="600">
