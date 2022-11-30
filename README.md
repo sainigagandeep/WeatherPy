@@ -26,7 +26,7 @@ The following data was retrieved from the API call:
 * Current Weather description 
 
 ## Vacation Search
-Based on travelerâ€™s weather preferences, travelers can identify potential travel destinations and nearby hotels. The map showcases destinations using pop-up markers on a marker layer-map.
+Based on traveler's weather preferences, travelers can identify potential travel destinations and nearby hotels. The map showcases destinations using pop-up markers on a marker layer-map.
 
 ### Sample Travel Destinations
 
